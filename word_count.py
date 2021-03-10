@@ -2,6 +2,7 @@
 #wordcount
 happy = input()
 
+print("Enter any statement: ")
 words = happy.split()
 
 counts = {}
