@@ -1,6 +1,5 @@
 #wordcount
 happy = input("Enter a phrase to count words: ")
-
 print("Enter any statement: ")
 words = happy.split()
 
