@@ -1,3 +1,5 @@
+
+#wordcount
 happy = input()
 
 words = happy.split()
