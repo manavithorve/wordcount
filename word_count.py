@@ -1,4 +1,4 @@
-happy = "I am a Student!"
+happy = input()
 
 words = happy.split()
 
